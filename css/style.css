@@ -1,0 +1,9 @@
+.carousel-inner img {
+    max-height: 350px;
+    object-fit: cover;
+}
+
+.navbar .navbar-nav .nav-item:hover {
+    background-color: #0262F2;
+    border-radius: .5rem;
+}
